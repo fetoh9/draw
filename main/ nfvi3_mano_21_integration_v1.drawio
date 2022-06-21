@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T11:31:35.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="cFDeG2ffnrbS7FgpvdfE" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:32:43.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="UTUk7Cu2yptqf8_EUNJ-" version="18.2.0" type="github" pages="2">
   <diagram id="MEa2GAYBACYJ28zqVBgj" name="Page-1">
-    <mxGraphModel dx="1706" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,9 +63,6 @@
         <mxCell id="7aDHLDYRfpYKgtBBdzj0-22" value="New integration" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=default;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="443" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KzR87htD9sYIW3_rYIrl-1" value="FMC MANO-22.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KzR87htD9sYIW3_rYIrl-2" value="1- Upgrade Tcloud MANO&lt;br style=&quot;font-size: 19px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="425" y="-60" width="280" height="110" as="geometry" />
         </mxCell>
@@ -73,7 +70,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QAKgqz-nSNG4aGK2h6QJ" name="Page-2">
-    <mxGraphModel dx="1198" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +139,7 @@
           <mxGeometry x="880" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUaXXUBdyzPlJFf5mh0q-20" value="2- Integrate with FMC MANO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="-100" width="360" height="110" as="geometry" />
+          <mxGeometry x="380" y="-60" width="360" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
